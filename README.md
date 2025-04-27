@@ -152,7 +152,7 @@ This model resulted in the following confusion matrix:
 
 ![best_svm_confusion_matrix.png](documentation/best_svm_confusion_matrix.png)  ![best_svm_confusion_matrix_normal.png](documentation/best_svm_confusion_matrix_normal.png)
 
-The plot on the right shows a confusion matrix normalized for the true label.
+The second plot shows a confusion matrix normalized for the true label.
 
 #### Discussion & Conclusion
 
